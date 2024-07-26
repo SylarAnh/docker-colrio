@@ -1,0 +1,4 @@
+source;share/co_lrio/environment/ament_prefix_path.sh
+source;share/co_lrio/environment/library_path.sh
+source;share/co_lrio/environment/path.sh
+source;share/co_lrio/environment/pythonpath.sh

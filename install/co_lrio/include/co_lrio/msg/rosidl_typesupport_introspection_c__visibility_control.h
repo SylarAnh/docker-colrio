@@ -1,0 +1,1 @@
+/ws_code/build/co_lrio/rosidl_typesupport_introspection_c/co_lrio/msg/rosidl_typesupport_introspection_c__visibility_control.h

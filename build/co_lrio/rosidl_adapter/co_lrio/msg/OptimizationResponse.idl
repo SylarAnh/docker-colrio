@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from co_lrio/msg/OptimizationResponse.msg
+// generated code does not contain a copyright notice
+
+#include "nav_msgs/msg/Odometry.idl"
+#include "sensor_msgs/msg/PointCloud2.idl"
+#include "std_msgs/msg/Header.idl"
+
+module co_lrio {
+  module msg {
+    @verbatim (language="comment", text=
+      " Optimization Response")
+    struct OptimizationResponse {
+      std_msgs::msg::Header header;
+
+      int32 robot_id;
+
+      int64 index_to;
+
+      nav_msgs::msg::Odometry pose_to;
+
+      boolean update_keyposes;
+
+      sensor_msgs::msg::PointCloud2 keyposes;
+    };
+  };
+};

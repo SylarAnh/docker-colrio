@@ -1,0 +1,4 @@
+source;share/co_lrio/local_setup.bash
+source;share/co_lrio/local_setup.dsv
+source;share/co_lrio/local_setup.sh
+source;share/co_lrio/local_setup.zsh

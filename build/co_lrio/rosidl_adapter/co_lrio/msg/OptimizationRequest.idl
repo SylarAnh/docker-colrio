@@ -1,0 +1,41 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from co_lrio/msg/OptimizationRequest.msg
+// generated code does not contain a copyright notice
+
+#include "nav_msgs/msg/Odometry.idl"
+#include "sensor_msgs/msg/PointCloud2.idl"
+#include "std_msgs/msg/Header.idl"
+
+module co_lrio {
+  module msg {
+    @verbatim (language="comment", text=
+      " Optimization Request")
+    struct OptimizationRequest {
+      std_msgs::msg::Header header;
+
+      uint8 robot_id;
+
+      sensor_msgs::msg::PointCloud2 keyframe;
+
+      int64 index_to;
+
+      nav_msgs::msg::Odometry pose_to;
+
+      int64 index_from;
+
+      nav_msgs::msg::Odometry pose_from;
+
+      float noise;
+
+      sequence<int32> other_ids;
+
+      sequence<float> distances;
+
+      sequence<float> descriptor_vec;
+
+      int32 gps_valid;
+
+      nav_msgs::msg::Odometry gps_odom;
+    };
+  };
+};

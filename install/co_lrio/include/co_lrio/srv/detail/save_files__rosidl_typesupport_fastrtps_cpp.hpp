@@ -1,0 +1,1 @@
+/ws_code/build/co_lrio/rosidl_typesupport_fastrtps_cpp/co_lrio/srv/detail/save_files__rosidl_typesupport_fastrtps_cpp.hpp

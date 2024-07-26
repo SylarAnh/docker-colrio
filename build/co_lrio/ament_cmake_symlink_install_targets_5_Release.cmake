@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/ws_code/build/co_lrio/rosidl_generator_py/co_lrio/libco_lrio__python.so" "TARGETS" "co_lrio__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

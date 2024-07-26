@@ -1,0 +1,22 @@
+version: '3.0'
+
+services:
+
+  colrio:
+    container_name: colrio-test
+    image: sylaranh/colrio-test:latest
+    stdin_open: true
+    tty: true
+    network_mode: host
+    environment:
+      - DISPLAY=$DISPLAY
+    volumes:
+      - ./build/:/ws_code/build/
+      - ./install/:/ws_code/install/
+      - ./start_colrio.sh:/script/start_colrio.sh
+      - /home/jcwang/dataset/:/dataset/
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      # - /home/jcwang/3rd_party:/3rd-party/Libs/
+    command: /bin/bash -c "bash /script/start_colrio.sh && bash "
+
+

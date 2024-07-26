@@ -1,0 +1,1 @@
+/ws_code/build/co_lrio/ament_cmake_core/co_lrioConfig-version.cmake

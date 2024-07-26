@@ -1,0 +1,30 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from co_lrio/msg/LoopClosure.msg
+// generated code does not contain a copyright notice
+
+#include "sensor_msgs/msg/PointCloud2.idl"
+#include "std_msgs/msg/Header.idl"
+
+module co_lrio {
+  module msg {
+    @verbatim (language="comment", text=
+      " Loop Closure")
+    struct LoopClosure {
+      std_msgs::msg::Header header;
+
+      uint8 robot0;
+
+      int32 key0;
+
+      uint8 robot1;
+
+      int32 key1;
+
+      int32 yaw_diff;
+
+      sensor_msgs::msg::PointCloud2 frame;
+
+      float noise;
+    };
+  };
+};

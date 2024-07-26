@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp  -O3 -DNDEBUG   -shared -Wl,-soname,libgeographic_lib.so -o libgeographic_lib.so CMakeFiles/geographic_lib.dir/include/third_parties/geo_graphic/Geocentric.cpp.o CMakeFiles/geographic_lib.dir/include/third_parties/geo_graphic/LocalCartesian.cpp.o CMakeFiles/geographic_lib.dir/include/third_parties/geo_graphic/Math.cpp.o 

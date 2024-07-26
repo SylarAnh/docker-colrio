@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from co_lrio/srv/SaveFiles.srv
+// generated code does not contain a copyright notice
+
+
+module co_lrio {
+  module srv {
+    struct SaveFiles_Request {
+      string destination;
+    };
+    struct SaveFiles_Response {
+      boolean success;
+    };
+  };
+};

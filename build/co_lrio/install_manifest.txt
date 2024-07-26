@@ -1,0 +1,16 @@
+/ws_code/install/co_lrio/lib/libco_lrio__rosidl_generator_c.so
+/ws_code/install/co_lrio/lib/libco_lrio__rosidl_typesupport_introspection_c.so
+/ws_code/install/co_lrio/lib/libco_lrio__rosidl_typesupport_c.so
+/ws_code/install/co_lrio/lib/libco_lrio__rosidl_typesupport_introspection_cpp.so
+/ws_code/install/co_lrio/lib/libco_lrio__rosidl_typesupport_cpp.so
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_generator_cExport.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_generator_cExport-release.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_introspection_cExport.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_introspection_cExport-release.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_cExport.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_cExport-release.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_generator_cppExport.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_introspection_cppExport.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_introspection_cppExport-release.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_cppExport.cmake
+/ws_code/install/co_lrio/share/co_lrio/cmake/co_lrio__rosidl_typesupport_cppExport-release.cmake

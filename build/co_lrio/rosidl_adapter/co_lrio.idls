@@ -1,0 +1,4 @@
+/ws_code/build/co_lrio/rosidl_adapter/co_lrio:msg/OptimizationRequest.idl
+/ws_code/build/co_lrio/rosidl_adapter/co_lrio:msg/LoopClosure.idl
+/ws_code/build/co_lrio/rosidl_adapter/co_lrio:msg/OptimizationResponse.idl
+/ws_code/build/co_lrio/rosidl_adapter/co_lrio:srv/SaveFiles.idl

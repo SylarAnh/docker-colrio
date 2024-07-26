@@ -1,0 +1,9 @@
+{
+  "package_name": "co_lrio",
+  "non_idl_tuples": [
+    "/ws_code/src:msg/OptimizationRequest.msg",
+    "/ws_code/src:msg/LoopClosure.msg",
+    "/ws_code/src:msg/OptimizationResponse.msg",
+    "/ws_code/src:srv/SaveFiles.srv"
+  ]
+}
